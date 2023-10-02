@@ -1,0 +1,33 @@
+{
+  "products": [
+    {
+      "id": 123,
+      "name": "orange",
+      "price": "2",
+      "image": "https://cdn.pixabay.com/photo/2017/01/20/15/06/oranges-1995056_960_720.jpg",
+      "discount": 0
+    },
+    {
+      "id": 131,
+      "name": "Milk",
+      "price": "3",
+      "image": "https://cdn.pixabay.com/photo/2018/03/16/16/42/milk-3231772_960_720.jpg",
+      "discount": 10
+
+    },
+    {
+      "id": 132,
+      "name": "Ice Cream",
+      "price": "32",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Strawberry_ice_cream_cone_%285076899310%29.jpg/640px-Strawberry_ice_cream_cone_%285076899310%29.jpg",
+      "discount": 12
+    },
+    {
+      "id": 134,
+      "name": "Watermelon",
+      "price": "2",
+      "image": "https://cdn.pixabay.com/photo/2015/09/27/18/18/watermelons-961128_960_720.jpg",
+      "discount": 2
+    }
+  ]
+}
