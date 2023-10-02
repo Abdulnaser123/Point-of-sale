@@ -1,1 +1,1 @@
-##﻿# Posint-of-sale
+# Posint-of-sale
